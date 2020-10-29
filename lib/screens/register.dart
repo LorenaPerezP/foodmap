@@ -20,7 +20,6 @@ class _RegisterScreenState extends State<RegisterScreen> {
       child: ListView(
         shrinkWrap: true,
         children: <Widget>[
-
           SizedBox(height: 10.0),
           Container(
             alignment: Alignment.center,
